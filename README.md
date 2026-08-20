@@ -139,7 +139,6 @@ The Excel dashboard provides an overview of Superstore sales performance, includ
 total sales, total profit, total orders, customers, regional sales, monthly sales,
 top products, and top customers.
 
-![Superstore Sales Dashboard](screenshots/Superstore_Sales_Dashboard.png)
 
 ## Key Insights
 
